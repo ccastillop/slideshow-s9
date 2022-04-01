@@ -1,8 +1,16 @@
-# start
+Morning everyone.
 
-## bang
+Please raise your hands if you've ever worked remotely on a caribbean island.
+
+## bali
+Do you know that Bali is not only a gorgeous place for vacation, but one of the best places to work remotely?
+
+![Woking remotely on Bali](images/bali-working.jpeg)
 
 ## who
+Hello everybody. 
+I am Cristiam, a software developer, and today we would dig on the amazing world of working and traveling at the same time.
+
 
 ## why
 
@@ -31,19 +39,6 @@
 ## conclusion
 
 ## clossing remarks
-
-
-
-
-
-Morning everyone.
-Please raise your hands if you've ever worked remotely on a caribbean island.
-
-Do you know that Bali is not only a gorgeous place for vacation, but one of the best places to work remotely?
-
-==pic of working on a Bali beach==
-
-Hello everybody. I am Cristiam, a software developer, and today we would dig on the amazing world of working and traveling at the same time.
 
 
 I would like to cover three main points.
