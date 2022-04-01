@@ -23,7 +23,7 @@ I would like to cover three main points.
 
 The workshop should last about five minutes and I'm happy to take any questions at any time.
 
-## 1.1 Corktation.
+## 1.1 Worktation.
 
 Worktation, ‘workoliday’ or ‘woliday’, 
 Working while on vacation (work + vacation = workation).
@@ -118,15 +118,6 @@ Just plan your next destination and go for that.
 
 ## clossing remarks
 Thank you for your attention.
-
-
-
-
-
-
-
-
-
 
 
 
