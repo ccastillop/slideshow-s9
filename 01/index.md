@@ -59,13 +59,37 @@ Long-term: relocates to another area.
 ![Barriers](images/01_3_trend.png)
 
 
-# Point 2: Benefits 
+# 2 Benefits
+## 2.1 Increase Productivity
 
-how it could benefits you
+According to [Timestatic](https://timetastic.co.uk/blog/what-is-a-workation) and also in words of [TouristTeacher]( https://tourismteacher.com/workation/)
 
-According to Timestatic... https://timetastic.co.uk/blog/what-is-a-workation 
+Going on a workation can help to increase productivity. If a person is more productive, then the company can make more money- so this seems like a pretty big benefit to me!
 
-The benefis are: one, two, trhee
+Two main reasons. The first, is that they do not have many of their home commitments- no/fewer chores to do, no unexpected visits from friends and family, no daily commute.
+
+Secondly, we often have less distractions when on workation. There are no colleagues knocking on the office door and no extended lunch breaks with friends.
+
+Of course, there is an element of self-discipline required with a workation, but research has proved that working remotely can make workers more productive.
+
+## 2.2 Enhanced quality and creatitivy
+
+Wortkations can also help to improve the quality of work. When people have less distractions, less pressure and are more relaxed they produce better work.
+
+There is a reason that people go away on ‘writing retreats’…. 
+
+People can also be more creative while on workation. Again, this is because there are less distractions.
+
+Many people claim that being amongst nature can help to enhance creativity. It is for this reason that rural tourism areas are often popular workation bases.
+
+## 2.3  Improved staff retention
+
+When people are happy at work they are less likely to leave.
+
+Maslow covered this topic really well in his work on motivation. He proved that when staff are happy and healthy, they are less likely to quit their jobs.
+
+![Maslow's Hieracchy of Needs](images/Maslows-Hierarchy-of-Needs-1024x791-1.jpeg)
+
 
 # Point 3: Planning and tips
 
