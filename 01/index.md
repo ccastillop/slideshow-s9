@@ -8,12 +8,12 @@ Do you know that Bali is not only a gorgeous place for vacation, but one of the 
 
 ![Woking remotely on Bali](images/bali-working.jpeg)
 
-# Who, What
+# Who, Why
 Hello everybody. 
 
 I am Cristiam, a software developer, and today we would dig on the amazing world of working and traveling at the same time. Workation
 
-# Agenda
+# What, How
 
 I would like to cover three main points.
 
